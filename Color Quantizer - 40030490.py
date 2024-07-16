@@ -8,6 +8,9 @@
     Assignment: Final Project #02
     >- Image Processing:
     >>> Color Quantization
+    -----------------------------
+    Attention: 
+    Processing may take longer than 1 minute.
 """
 import re
 import os
@@ -18,7 +21,7 @@ import matplotlib.pyplot as plt
 os.system('cls')
 
 # Image path and necessary pattern ----------------------------------------------------------
-path = "./Main images/MyForza.png"
+path = "./Main images/MyMaster.jpg"
 pattern = r"\/([A-Za-z0-9]+)\.(png|jpg)$"
 
 # Search for the pattern in the input (path) string -----------------------------------------
@@ -61,7 +64,7 @@ def kmeans(pixels, k, max_iters=100):
 
 # Step 3: Comparison of original and quantized images ---------------------------------------
 k_list = [2, 4, 8] # some examples for different k values 
-input_k = int(input("\nPlease enter the number of colors: ")) # final k value as user input
+input_k = int(input("\nPlease enter the number of colors (final k): ")) # final k value as user input
 k_list.append(input_k)
 k_list.sort()
 
