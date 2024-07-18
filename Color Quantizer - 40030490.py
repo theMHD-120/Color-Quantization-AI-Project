@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 os.system('cls')
 
 # Image path and necessary pattern ----------------------------------------------------------
-path = "./Main images/MyMaster.jpg"
+path = "./Main images/MyForza.png"
 pattern = r"\/([A-Za-z0-9]+)\.(png|jpg)$"
 
 # Search for the pattern in the input (path) string -----------------------------------------
