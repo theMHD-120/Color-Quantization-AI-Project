@@ -141,7 +141,7 @@ if __name__ == '__main__':
     os.system('cls')
     
     # Image path and necessary pattern 
-    path = "./Main images/MyMaster.png"
+    path = "./Main images/MyForza.png"
     pattern = r"\/([A-Za-z0-9]+)\.png$"
     image_name = get_image_name()
     
