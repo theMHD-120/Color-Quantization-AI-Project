@@ -1,6 +1,7 @@
 ﻿# Color-Quantization-AI-Project
->>> Artificial Intelligence (AI) final project #02 - Semmer 2024
- 
+>>> Artificial Intelligence (AI) final project #02 - Summer 2024
+
+# Brief
 ||| In the name of Allah ||| <br />
 ---------------------------- <br />
 Implementation of an Image Processing and a Python Machine Learning project: Color Quantization using K-Means clustering algorithm (with different k values) and OpenCV library. <br />
