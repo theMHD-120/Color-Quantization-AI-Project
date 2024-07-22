@@ -1,4 +1,5 @@
 ﻿# Color-Quantization-AI-Project
+>>> Artificial Intelligence (AI) final project #02 - Semmer 2024
  
 ||| In the name of Allah ||| <br />
 ---------------------------- <br />
