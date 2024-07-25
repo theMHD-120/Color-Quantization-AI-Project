@@ -1,4 +1,4 @@
-﻿# Color-Quantization-AI-Project
+![MyForza - figure](https://github.com/user-attachments/assets/d3463466-83a2-47e7-b0d5-795c869b5a09)﻿# Color-Quantization-AI-Project
 >>> Artificial Intelligence (AI) final project #02 - Summer 2024
 
 # Project summary
@@ -14,3 +14,5 @@ K-means is a centroid-based or a distance-based algorithm, where we calculate th
 More guides and explanations: https://www.w3schools.com/python/python_ml_k-means.asp
 
 # An example of quantization
+![Uploading MyForza - figure.png…]()
+![MyForza - ratio](https://github.com/user-attachments/assets/e6ae31c1-325e-4050-a441-24ddc369d9e7)
