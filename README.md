@@ -14,4 +14,4 @@ Unsupervised learning in artificial intelligence is a type of machine learning t
 K-means is a centroid-based or a distance-based algorithm, where we calculate the distances to assign a point to a cluster. In K-Means, each cluster is associated with a centroid; the algorithm iteratively divides data points into K clusters by minimizing the variance in each cluster. <br />
 More guides and explanations: https://www.w3schools.com/python/python_ml_k-means.asp
 
-# Exampple of quantization
+# An example of quantization
