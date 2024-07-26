@@ -5,7 +5,7 @@
 ||| In the name of Allah ||| <br />
 --------------------------- <br />
 Implementation of an Image Processing and a Python Machine Learning project: Color Quantization using K-Means clustering algorithm (with different k values) and OpenCV library. <br />
-All functions and variables are written in a Python file < Color Quantizer.py >. Read the guides and explanations of this project in the documentation file ...
+All functions and variables are written in a Python file < Color Quantizer.py >. Read the guides and explanations of this project in the < Color Quantization - Review.pdf > file ...
 
 # K-Means Algorithm
 K-means is an unsupervised machine learning method for clustering data points. <br />
