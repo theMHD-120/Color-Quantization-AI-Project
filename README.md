@@ -11,7 +11,11 @@ All functions and variables are written in a Python file < Color Quantizer.py >.
 K-means is an unsupervised machine learning method for clustering data points. <br />
 Unsupervised learning in artificial intelligence is a type of machine learning that learns from data without human supervision. <br />
 K-means is a centroid-based or a distance-based algorithm, where we calculate the distances to assign a point to a cluster. In K-Means, each cluster is associated with a centroid; the algorithm iteratively divides data points into K clusters by minimizing the variance in each cluster. <br />
-More guides and explanations: [W3Schools - Kmeans](https://www.w3schools.com/python/python_ml_k-means.asp)
+
+See the links below: 
+- Link #01: [W3Schools - Kmeans](https://www.w3schools.com/python/python_ml_k-means.asp)
+- Link #02: [Youtube #1 - Kmeans](https://www.youtube.com/watch?v=4b5d3muPQmA)
+- Link #03: [Youtube #2 - Kmeans](https://www.youtube.com/watch?v=YEwt6BJROug)
 
 # An example of quantization with different k values
 ![MyForza - figure](https://github.com/user-attachments/assets/d3463466-83a2-47e7-b0d5-795c869b5a09)
